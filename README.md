@@ -10,7 +10,7 @@ I’m passionate about solving problems with data and building practical tech so
 ---
 
 **Some stuff I built:**
-- [Modern Responsive Website]() – A fully responsive multi-section website with smooth scroll animations, interactive components, and custom UI built using HTML, CSS, and JavaScript.
+- [Modern Responsive Website](https://github.com/thivyanx/modern-responsive-website) – A fully responsive multi-section website with smooth scroll animations, interactive components, and custom UI built using HTML, CSS, and JavaScript.
 - [Flight Delay Prediction System]() – A machine learning model that predicts flight delays using  flight data.
 <!--
 **thivyanx/thivyanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
